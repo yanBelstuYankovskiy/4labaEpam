@@ -111,6 +111,8 @@ _Pre-requirements:_
 |----|------|
 |view any product on the page| the number of views will increase in the upper right part of the screen|
 |click on the eye icon in the upper right corner| A page opens with a list of viewed products https://www.amd.by/watched_products/ |
+
+
 Environment:
 
 1. Operating system: Microsoft Windows 10 Home
